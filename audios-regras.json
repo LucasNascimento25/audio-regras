@@ -1,0 +1,40 @@
+{
+  "audios": [
+    {
+      "id": "audio_regras_1",
+      "nome": "Audio Regras 1",
+      "descricao": "Primeiro áudio quando alguém pede as regras",
+      "arquivo": "audio_regras1.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/regras/audio_regras1.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "ativo": true
+    },
+    {
+      "id": "audio_regras_2",
+      "nome": "Audio Regras 2",
+      "descricao": "Segundo áudio para rotação",
+      "arquivo": "audio_regras2.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/regras/audio_regras2.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "ativo": true
+    },
+    {
+      "id": "audio_regras_3",
+      "nome": "Audio Regras 3",
+      "descricao": "Terceiro áudio para rotação",
+      "arquivo": "audio_regras3.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/regras/audio_regras3.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "ativo": true
+    }
+  ],
+  "configuracoes": {
+    "versao": "2.0",
+    "ultima_atualizacao": "2024-11-23",
+    "repositorio": "https://github.com/LucasNascimento25/audio-regras",
+    "descricao": "Configuração de áudios do bot WhatsApp - Sistema #alerta"
+  }
+}

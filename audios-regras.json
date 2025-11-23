@@ -3,38 +3,78 @@
     {
       "id": "audio_regras_1",
       "nome": "Audio Regras 1",
-      "descricao": "Primeiro áudio quando alguém pede as regras",
+      "descricao": "Primeiro áudio quando alguém pede as regras (GERAL)",
       "arquivo": "audio_regras1.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/regras/audio_regras1.mp3",
       "tipo": "comando",
       "comando": "regras",
+      "contexto": "geral",
       "ativo": true
     },
     {
       "id": "audio_regras_2",
       "nome": "Audio Regras 2",
-      "descricao": "Segundo áudio para rotação",
+      "descricao": "Segundo áudio para rotação (GERAL)",
       "arquivo": "audio_regras2.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/regras/audio_regras2.mp3",
       "tipo": "comando",
       "comando": "regras",
+      "contexto": "geral",
       "ativo": true
     },
     {
       "id": "audio_regras_3",
       "nome": "Audio Regras 3",
-      "descricao": "Terceiro áudio para rotação",
+      "descricao": "Terceiro áudio para rotação (GERAL)",
       "arquivo": "audio_regras3.mp3",
       "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/regras/audio_regras3.mp3",
       "tipo": "comando",
       "comando": "regras",
+      "contexto": "geral",
+      "ativo": true
+    },
+    {
+      "id": "audio_advertencia_1",
+      "nome": "Audio Advertência 1",
+      "descricao": "Primeiro áudio de advertência (INDIVIDUAL)",
+      "arquivo": "audio_advertencia1.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/advertencias/audio_advertencia1.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "contexto": "individual",
+      "ativo": true
+    },
+    {
+      "id": "audio_advertencia_2",
+      "nome": "Audio Advertência 2",
+      "descricao": "Segundo áudio de advertência (INDIVIDUAL)",
+      "arquivo": "audio_advertencia2.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/advertencias/audio_advertencia2.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "contexto": "individual",
+      "ativo": true
+    },
+    {
+      "id": "audio_advertencia_3",
+      "nome": "Audio Advertência 3",
+      "descricao": "Terceiro áudio de advertência (INDIVIDUAL)",
+      "arquivo": "audio_advertencia3.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/advertencias/audio_advertencia3.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "contexto": "individual",
       "ativo": true
     }
   ],
   "configuracoes": {
-    "versao": "2.0",
+    "versao": "3.0",
     "ultima_atualizacao": "2024-11-23",
     "repositorio": "https://github.com/LucasNascimento25/audio-regras",
-    "descricao": "Configuração de áudios do bot WhatsApp - Sistema #alerta"
+    "descricao": "Configuração de áudios do bot WhatsApp - Sistema #alerta com contextos diferentes",
+    "contextos": {
+      "geral": "Áudios enviados quando usa #alerta sem marcar ninguém (regras gerais)",
+      "individual": "Áudios enviados quando usa #alerta marcando uma mensagem (advertência)"
+    }
   }
 }

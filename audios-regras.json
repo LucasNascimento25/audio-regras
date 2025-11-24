@@ -65,6 +65,39 @@
       "comando": "regras",
       "contexto": "individual",
       "ativo": true
+    },
+    {
+      "id": "audio_advertencia_4",
+      "nome": "Audio Advertência 4",
+      "descricao": "Terceiro áudio de advertência (INDIVIDUAL)",
+      "arquivo": "audio_advertencia4.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/advertencias/audio_advertencia4.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "contexto": "individual",
+      "ativo": true
+    },
+    {
+      "id": "audio_advertencia_5",
+      "nome": "Audio Advertência 5",
+      "descricao": "Terceiro áudio de advertência (INDIVIDUAL)",
+      "arquivo": "audio_advertencia5.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/advertencias/audio_advertencia5.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "contexto": "individual",
+      "ativo": true
+    },
+    {
+      "id": "audio_advertencia_6",
+      "nome": "Audio Advertência 6",
+      "descricao": "Terceiro áudio de advertência (INDIVIDUAL)",
+      "arquivo": "audio_advertencia6.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/advertencias/audio_advertencia6.mp3",
+      "tipo": "comando",
+      "comando": "regras",
+      "contexto": "individual",
+      "ativo": true
     }
   ],
   "configuracoes": {

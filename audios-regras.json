@@ -1,32 +1,6 @@
 {
   "audios": [
-    {
-      "id": 1,
-      "nome": "Audio Regras 1",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_regras1.mp3",
-      "comando": "regras",
-      "tipo": "geral",
-      "ordem": 1,
-      "ativo": true
-    },
-    {
-      "id": 2,
-      "nome": "Audio Regras 2",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_regras2.mp3",
-      "comando": "regras",
-      "tipo": "geral",
-      "ordem": 2,
-      "ativo": true
-    },
-    {
-      "id": 3,
-      "nome": "Audio Regras 3",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_regras3.mp3",
-      "comando": "regras",
-      "tipo": "geral",
-      "ordem": 3,
-      "ativo": true
-    },
+    
     {
       "id": 4,
       "nome": "Audio Advertência 1",
@@ -61,24 +35,6 @@
       "comando": "regras",
       "tipo": "advertencia",
       "ordem": 7,
-      "ativo": true
-    },
-    {
-      "id": 8,
-      "nome": "Audio Advertência 5",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_advertencia5.mp3",
-      "comando": "regras",
-      "tipo": "advertencia",
-      "ordem": 8,
-      "ativo": true
-    },
-    {
-      "id": 9,
-      "nome": "Audio Advertência 6",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_advertencia6.mp3",
-      "comando": "regras",
-      "tipo": "advertencia",
-      "ordem": 9,
       "ativo": true
     }
   ]

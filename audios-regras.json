@@ -7,7 +7,7 @@
       "comando": "regras",
       "tipo": "geral",
       "ordem": 1,
-      "ativo": false
+      "ativo": true
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "comando": "regras",
       "tipo": "geral",
       "ordem": 2,
-      "ativo": false
+      "ativo": true
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "comando": "regras",
       "tipo": "geral",
       "ordem": 3,
-      "ativo": false
+      "ativo": true
     },
     {
       "id": 4,

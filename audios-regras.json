@@ -1,10 +1,9 @@
 {
   "audios": [
-    
     {
       "id": 4,
       "nome": "Audio Advertência 1",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_advertencia1.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/audio_advertencia1.mp3",
       "comando": "regras",
       "tipo": "advertencia",
       "ordem": 4,
@@ -13,7 +12,7 @@
     {
       "id": 5,
       "nome": "Audio Advertência 2",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_advertencia2.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/audio_advertencia2.mp3",
       "comando": "regras",
       "tipo": "advertencia",
       "ordem": 5,
@@ -22,7 +21,7 @@
     {
       "id": 6,
       "nome": "Audio Advertência 3",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_advertencia3.mp3",
+      "url": "https://raw.githubusercontent.com/LucasNascimento25/audio-regras/main/audio_advertencia3.mp3",
       "comando": "regras",
       "tipo": "advertencia",
       "ordem": 6,

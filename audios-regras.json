@@ -27,15 +27,6 @@
       "tipo": "advertencia",
       "ordem": 6,
       "ativo": true
-    },
-    {
-      "id": 7,
-      "nome": "Audio Advertência 4",
-      "url": "https://github.com/LucasNascimento25/audio-regras/raw/main/regras/audio_advertencia4.mp3",
-      "comando": "regras",
-      "tipo": "advertencia",
-      "ordem": 7,
-      "ativo": true
     }
   ]
 }
